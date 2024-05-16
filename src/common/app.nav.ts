@@ -90,7 +90,7 @@ export const navItems: {
   // User-chosen apps
   apps: [
     {
-      name: 'Chat',
+      name: 'Чат',
       icon: TextsmsOutlinedIcon,
       iconActive: TextsmsIcon,
       type: 'app',
